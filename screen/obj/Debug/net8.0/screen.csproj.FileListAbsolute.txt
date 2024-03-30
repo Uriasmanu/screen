@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\bin\Debug\net8.0\screen.exe
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\bin\Debug\net8.0\screen.deps.json
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\bin\Debug\net8.0\screen.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\bin\Debug\net8.0\screen.dll
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\bin\Debug\net8.0\screen.pdb
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\screen.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\screen.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\screen.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\screen.dll
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\refint\screen.dll
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\screen.pdb
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\screen.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\GitHub\screen\screen\obj\Debug\net8.0\ref\screen.dll
